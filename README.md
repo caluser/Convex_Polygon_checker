@@ -22,3 +22,14 @@ Other features:
 
 
 Images:
+
+
+<img src="https://github.com/caluser/Convex_Polygon_checker/blob/master/Screenshots/Convex_initial_screen.png" width="500" height="500">
+
+<img src="https://github.com/caluser/Convex_Polygon_checker/blob/master/Screenshots/Convex_connect_points.png" width="500" height="500">
+
+<img src="https://github.com/caluser/Convex_Polygon_checker/blob/master/Screenshots/Convex_found_intersection.png" width="500" height="500">
+
+<img src="https://github.com/caluser/Convex_Polygon_checker/blob/master/Screenshots/Convex_intersecting_line.png" width="500" height="500">
+
+<img src="https://github.com/caluser/Convex_Polygon_checker/blob/master/Screenshots/Convex_done.png" width="500" height="500">
