@@ -2,6 +2,8 @@
 Creates a convex polygon from a given set of points if possible, else shows that the set of points only creates a concave one..
 This includes an iterative GUI which allows the user to go step-by-step to see how the algorithm manages to give an answer.
 
+This requires a Processing environment to run - free to use and download: https://processing.org/
+
 *This was originally asked as an interview question at Intel - 'What would be the basic concepts of designing an algorithm which detecs a convex polygon?', I have been by this question ever since and studied concepts of computational geometry to create this piece.
 
 Other features:
@@ -17,6 +19,8 @@ Other features:
     [X] Step-by-Step iteration ('N' to jump to next step)
     
     [X] Save points to database ('S' to save)
+    
+    [X] Debugging mode. (Press on the small circle on the bottom-left side)
     
 [X] Implementation of dynamic polygons using a connected list of pointers to points.
 
